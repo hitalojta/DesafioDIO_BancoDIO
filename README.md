@@ -1,2 +1,4 @@
-# DesafioDIO_BancoDIO
-Programa que simula operações bancárias simples. Desafio proposto no bootcamp de C# da Digital Innovation One.
+# Aplicação de transferências bancárias com .NET
+
+
+Programa que simula operações bancárias simples. Atividade proposta no bootcamp ".NET Fundamentals" da Digital Innovation One.
